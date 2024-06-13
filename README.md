@@ -32,13 +32,13 @@
 
 <h2></h2>
 
-<a href="https://www.youtube.com/channel/UCNuWW5cWPvGkBQ1U6403bvA" target = "_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+<a href="https://www.youtube.com/channel/UCNuWW5cWPvGkBQ1U6403bvA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+<a href = "contato.devdanrley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></img>
 <a href="https://www.instagram.com/dev.danrley/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></img>
 <a href="https://www.linkedin.com/in/danrley-maranhão">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
 
-<a href="https://stackoverflow.com/users/25314211/danrley-maranh%c3%a3o"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg"></img></a>
 <!--futuramente: <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>-->
 
 
