@@ -1,6 +1,6 @@
 
-          
-<h1 align="center">Olá mundo gafanhoto 🖖</h1>
+<!--guanabara references-->          
+<h1 align="center">Olá pequeno gafanhoto 🖖</h1>
 
 <h3 align="center">➙&nbsp;&nbsp;Bem vindo ao meu repositório, me chamo Danrley e fico feliz em ver você</h3>
 
@@ -17,7 +17,20 @@
 
 <br>
 <br>
-
+<ul>
+    <li>
+        🔭 No momento, estou à procura de projetos e trabalhos que envolvam o <strong>Front-End</strong>.
+    </li>
+    <li>
+        🌱 Atualmente estou estudando o <strong>Node JS</strong>.
+    </li>
+    <li>
+        🧑‍💻 Futuramente, penso em construção de novos <strong>OS</strong>.
+    </li>
+    <li>
+        📚 No mais, contribuo para o <strong>Open Source</strong>
+    </li>
+</ul>
 <h2>●&nbsp;&nbsp;Tecnologias</h2>
 
 
