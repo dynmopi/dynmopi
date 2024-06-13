@@ -48,7 +48,7 @@
 <h2></h2>
 
 <a href="https://www.youtube.com/channel/UCNuWW5cWPvGkBQ1U6403bvA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
-<a href = "mailto:contato.devdanrley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></img>
+<a href = "mailto:contato.devdan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></img>
 <a href="https://www.instagram.com/dev.danrley/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></img>
 <a href="https://www.linkedin.com/in/danrley-maranhão">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
