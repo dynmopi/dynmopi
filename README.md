@@ -11,17 +11,10 @@
 </p>
 
 <p>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dynmopi&layout=compact&theme=dark" align="right">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dynmopi&layout=compact&theme=dark" align="center">
 </p>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
