@@ -12,4 +12,14 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dynmopi&layout=compact&theme=dark" align="right">
 </p>
 
-    
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2>
+<h2>Tecnologias</h2>
