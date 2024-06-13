@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá pequeno gafanhoto 🖖</h1>
 
-<h3 align="center">➙&nbsp;&nbsp;Bem vindo ao meu repositório, me chamo Danrley e fico feliz em ver você</h3>
+<h3 align="center">➙&nbsp;&nbsp;Bem vindo ao meu repositório, me chamo Danrley e fico feliz em ver você.</h3>
 
 <br>
 
@@ -27,10 +27,10 @@
         🌱 Atualmente estou estudando o <strong>Node JS</strong>.
     </li>
     <li>
-        🧑‍💻 Futuramente, penso em construção de novos <strong>OS</strong>.
+        🧑‍💻 Futuramente, penso em construção de novos <strong>OS</strong> e ser <strong>Professor de Computação</strong>.
     </li>
     <li>
-        📚 No mais, contribuo para o <strong>Open Source</strong>
+        📚 No mais, deixo alguns projetos para o <strong>Open Source.</strong>
     </li>
 </ul>
 <h2>●&nbsp;&nbsp;Tecnologias</h2>
