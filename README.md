@@ -24,7 +24,7 @@
         🔭 No momento, estou à procura de projetos e trabalhos que envolvam o <strong>Front-End</strong>.
     </li>
     <li>
-        🌱 Atualmente estou estudando o <strong>Node JS</strong>.
+        🌱 Atualmente estou estudando o <strong>JavaScript</strong>.
     </li>
     <li>
         🧑‍💻 Futuramente, penso em construção de novos <strong>OS</strong> e ser <strong>Professor de Computação</strong>.
