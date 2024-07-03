@@ -44,8 +44,12 @@
 <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40px"/></a>&nbsp;
 
 
+<h2>●&nbsp;&nbsp;Ferramentas</h2>
+<a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40px"/></a>&nbsp;
+<a href="https://inkscape.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" height ="40px"/></a>&nbsp;
 
-<h2></h2>
+
+<h2>●&nbsp;&nbsp;Mídia</h2>
 
 <a href="https://www.youtube.com/channel/UCNuWW5cWPvGkBQ1U6403bvA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 <a href = "mailto:contato.devdan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></img><!--<a href="https://www.instagram.com/dev.danrley/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></img> -->
