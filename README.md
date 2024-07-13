@@ -21,10 +21,10 @@
 <br>
 <ul>
     <li>
-        🔭 No momento, estou à procura de projetos e trabalhos que envolvam o <strong>Front-End</strong>.
+        🔭 No momento, estou à procura de projetos e trabalhos que envolvam o <strong>Back-end</strong>.
     </li>
     <li>
-        🌱 Atualmente estou estudando o <strong>JavaScript</strong>.
+        🌱 Atualmente estou estudando o <strong>Java</strong>.
     </li>
     <li>
         🧑‍💻 Futuramente, penso em construção de novos <strong>OS</strong> e ser <strong>Professor de Computação</strong>.
