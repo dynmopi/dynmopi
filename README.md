@@ -33,6 +33,10 @@
         📚 No mais, deixo alguns projetos para o <strong>Open Source.</strong>
     </li>
 </ul>
+
+<h2>Conquistas</h2>
+<img src = "https://github.com/user-attachments/assets/97e5fd63-2f16-4516-9561-43eb0ee8dbe6" height="80px">
+
 <h2>●&nbsp;&nbsp;Tecnologias</h2>
 
 
