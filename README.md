@@ -27,7 +27,7 @@
         🌱 Atualmente estou estudando o <strong>Java</strong>.
     </li>
     <li>
-        🧑‍💻 Futuramente, penso em construção de novos <strong>OS</strong> e ser <strong>Professor de Computação</strong>.
+        🧑‍💻 Tenho curiosidades sobre a criação de sistemas operacionais
     </li>
     <li>
         📚 No mais, deixo alguns projetos para o <strong>Open Source.</strong>
