@@ -17,13 +17,13 @@
 <br>
 <ul>
     <li>
-        🔭 No momento, estou à procura de projetos e trabalhos que envolvam o <strong>Back-end</strong>.
+        🔭 No momento, estou à procura de projetos e trabalhos acadêmicos.
     </li>
     <li>
-        🌱 Atualmente estou estudando o <strong>Java</strong>.
+        🌱 Atualmente estou estudando as disciplinas da faculdade.
     </li>
     <li>
-        🧑‍💻 Tenho curiosidades sobre a criação de sistemas operacionais
+        🧑‍💻 Tenho curiosidades sobre a programação de baixo nível e eletrônica.
     </li>
     <li>
         📚 No mais, deixo alguns projetos para o <strong>Open Source.</strong>
