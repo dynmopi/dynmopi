@@ -1,9 +1,4 @@
 
-
-<!--guanabara references-->          
-
-<h1 align="center">Olá pequeno gafanhoto 🖖</h1>
-
 <h3 align="center">➙&nbsp;&nbsp;Bem vindo ao meu repositório, me chamo Danrley e fico feliz em ver você.</h3>
 
 <br>
@@ -17,10 +12,10 @@
 <br>
 <ul>
     <li>
-        🔭 No momento, estou à procura de projetos e trabalhos acadêmicos.
+        🔭 No momento, estou atuando na otimização de SoC.
     </li>
     <li>
-        🌱 Atualmente estou estudando as disciplinas da faculdade.
+        🌱 Atualmente estou estudando sistemas Linux e disciplinas da faculdade.
     </li>
     <li>
         🧑‍💻 Tenho curiosidades sobre a programação de baixo nível e eletrônica.
