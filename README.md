@@ -3,11 +3,6 @@
 
 <br>
 
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dynmopi&layout=compact&theme=dark" align="center"></a>
-</p>
-
-
 <br>
 <br>
 <ul>
