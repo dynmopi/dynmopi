@@ -7,13 +7,10 @@
 <br>
 <ul>
     <li>
-        🔭 No momento, estou atuando em Linux Embarcado.
+        🔭 No momento, estou atuando em Linux Embarcado, Gêmeos Digitais, Simulação Computacional e Sistemas Distribuídos como Clusters de HPCs.
     </li>
     <li>
         🧑‍💻 Tenho curiosidades sobre a programação de baixo nível e eletrônica.
-    </li>
-    <li>
-        📚 No mais, deixo alguns projetos para o <strong>Open Source.</strong>
     </li>
 </ul>
 
